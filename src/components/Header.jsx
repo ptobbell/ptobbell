@@ -12,13 +12,9 @@ export default function Header({text}) {
     )
 
     Header.defaultProps = {text: 'Feedback UI',
-    Header.prototype = {
-        text: PropTypes.string
-    
 }
 
 
-}
 
 
 }
